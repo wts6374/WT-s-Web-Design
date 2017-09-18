@@ -13,7 +13,7 @@ A bullet-hell shooter game that goes from right to left instead of up to down
 
 ## H2 III. Platform
 
-Desktop-only: Due to the intensity of a game like this.
+**Desktop-only**: Due to the intensity of a game like this.
 
 ## H2 IV. Story
 
@@ -21,25 +21,29 @@ In the distant future, the majority of the alien races within the universe have 
 
 ## H2 V. Esthetics
 
-Graphics style: 16 bit cartoonish look
-Sound: Chiptune-styled music and sound effects for shooting, landing shots, taking damage and earning bonuses
+**Graphics style**: 16 bit cartoonish look
+**Sound**: Chiptune-styled music and sound effects for shooting, landing shots, taking damage and earning bonuses
 
 ## H2 VI. Gameplay
 
-Mechanics
+**Mechanics**
 
 Before starting a stage, the player is given the choice between three characters, but they cannot switch characters mid-mission. Each character has their own unique properties and ability
 
-Damox: A huge, hearty and battle-harden general of the Visklatian Army. Huge and Slow, but has high health and deals high damage. Ability: Barrier-Summons a bubble sheild that absorbs incoming shots and converts it into health
-Alarha: A powerful warrior princess from a far-off galaxy. Quick and small, but has low health and deals low damage. Ability: Buzzsaw- Throws a laser buzzsaw across the entire screen, destroying projectiles and dealing massive damage
-Rickter: An Viskaltian rookie and the last surviving member of a extinct race. Moderate size, speed, health and damage output. Ability: Booster- Temporaily increases movement speed, damage output and slowly heals Rickter over time
+_Damox_: A huge, hearty and battle-harden general of the Visklatian Army. Huge and Slow, but has high health and deals high damage. _Ability: Barrier_-Summons a bubble sheild that absorbs incoming shots and converts it into health
+
+_Alarha_: A powerful warrior princess from a far-off galaxy. Quick and small, but has low health and deals low damage.
+_Ability: Buzzsaw_- Throws a laser buzzsaw across the entire screen, destroying projectiles and dealing massive damage
+
+_Rickter_: An Viskaltian rookie and the last surviving member of a extinct race. Moderate size, speed, health and damage output. _Ability: Booster_- Temporaily increases movement speed, damage output and slowly heals Rickter over time
+
 Each ability has a cooldown period it needs to complete before it can be used again. Furthermore, the hitbox for each character is smaller than the characters themselves. If an enemy projectile passes through the player character without touching the hitbox, they'll earn bonus points. A player will also earn bonus points for killing mooks, shooting specific areas on the boss or beating a stage without losing a life. Speaking of which, the player will only have 3 lives when starting a new stage, but will earn extra lives for that stage if they reach a certain point threshold. If the player runs out of lives, they are sent back to the last boss health bar they depleted and will lose a large sum of the points they've accumulated and will only start up with one extra life. Since the stages in the game are mostly just boss fights, checkpoints occur whenever a boss loses a life and just like the player, bosses can have multiple lives.
 
-Controls (Keyboard and/or Mouse)
+**Controls** (Keyboard and/or Mouse)
 
-Keyboard: Use arrow keys to move. Press and hold Space bar to shoot. Press the "C" key to throw out a melee attack that deals massive damage. Press the "V" key to use your special ability.
+_Keyboard_: Use arrow keys to move. Press and hold Space bar to shoot. Press the "C" key to throw out a melee attack that deals massive damage. Press the "V" key to use your special ability.
 
-Mouse: Move the mouse to move. Press and hold left-click to shoot. Right-click to throw out a melee attack that deals massive damage. Middle-click to use your special ability.
+_Mouse_: Move the mouse to move. Press and hold left-click to shoot. Right-click to throw out a melee attack that deals massive damage. Middle-click to use your special ability.
 
 To pause, press the "Enter" key and to exit the stage, press the "Esc" key.
 

@@ -1,27 +1,30 @@
-LIGHTSPEED BULLET
+# H1 LIGHTSPEED BULLET
 
-Game Proposal Game Development Game (Still in Development)
-I. High Concept
+[I'm an inline-style link with title]Game Proposal  
+[I'm an inline-style link with title]Game Development 
+[I'm an inline-style link with title]Game (Still in Development)
+## H2 I. High Concept
 
 A side-scrolling bullet-hell space shooter with three playable characters that each have there own unique moves and properties.
 
-II. Genre
+## H2 II. Genre
 
 A bullet-hell shooter game that goes from right to left instead of up to down
 
-III. Platform
+## H2 III. Platform
 
-Destop-only: Due to the intensity of a game like this.
+Desktop-only: Due to the intensity of a game like this.
 
-IV. Story
+## H2 IV. Story
 
 In the distant future, the majority of the alien races within the universe have formed the Visklat Alliance, ensuring peace and prosperity throughout all worlds. However, that peace is now being threatened by the Therigax Empire, whose goal it is to wipe every other alien race in the universe out of existance. With the worlds in the alliance now making a full-on assault on the empire, the player takes control of three of the Alliance's most powerful warriors to bring the empire down.
 
-V. Esthetics
+## H2 V. Esthetics
 
 Graphics style: 16 bit cartoonish look
 Sound: Chiptune-styled music and sound effects for shooting, landing shots, taking damage and earning bonuses
-VI. Gameplay
+
+## H2 VI. Gameplay
 
 Mechanics
 
@@ -40,14 +43,14 @@ Mouse: Move the mouse to move. Press and hold left-click to shoot. Right-click t
 
 To pause, press the "Enter" key and to exit the stage, press the "Esc" key.
 
-VII. Screenshots
+## H2 VII. Screenshots
 
-VIII. Other
+## H2 VIII. Other
 
 I want to use Contruct 2 to create my sprites.
 
-IX. About the Developer
+## H2 IX. About the Developer
 
 My name is William Tyler Shaw and I'm a student at RIT. I enjoy browsing the internet and play video games, but my main goal is to become a video game designer and programmer. I hope that by taking this class I can learn skills I could use to help promote my own games. However, I really do hope above all else that, through this major and my time at RIT, I can learn the skills I need to make my dream a reality and if all goes well, in a few years I'll either be making games independently or with a company.
 
-My Home Page
+[I'm an inline-style link with title] My Home Page
